@@ -22,25 +22,6 @@
 
 ---
 
-## 🛠️ Highlighted Work
-
-### ⚽ Sports Platform Backend
-- Built and scaled backend systems for a sports booking and management platform
-- Worked on service architecture, API design, data modeling, Redis-based optimization, and AWS deployment
-- Delivered modules like booking, payments & refunds, chat, and notifications
-
-### 🍔 AI Food Delivery Chatbot
-- Built an AI chatbot for a food delivery use case
-- Supported actions like restaurant listing, order creation, ticket generation, status checks, and profile updates
-- Implemented tool calling and multi-model fallback using LLM-based workflows
-
-### 📝 OMR Scanning System
-- Built a general-purpose OMR scanning and evaluation workflow
-- Designed coordinate-geometry-based logic for bubble detection and alignment correction
-- Improved scanning accuracy and automated the scanning-to-result flow
-
----
-
 ## ⚙️ Tech Stack
 
 ### Backend & Languages
@@ -67,6 +48,25 @@
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge" />
 </p>
+
+---
+
+## 🛠️ Highlighted Work
+
+### ⚽ Sports Platform Backend
+- Built and scaled backend systems for a sports booking and management platform
+- Worked on service architecture, API design, data modeling, Redis-based optimization, and AWS deployment
+- Delivered modules like booking, payments & refunds, chat, and notifications
+
+### 🍔 AI Food Delivery Chatbot
+- Built an AI chatbot for a food delivery use case
+- Supported actions like restaurant listing, order creation, ticket generation, status checks, and profile updates
+- Implemented tool calling and multi-model fallback using LLM-based workflows
+
+### 📝 OMR Scanning System
+- Built a general-purpose OMR scanning and evaluation workflow
+- Designed coordinate-geometry-based logic for bubble detection and alignment correction
+- Improved scanning accuracy and automated the scanning-to-result flow
 
 ---
 
